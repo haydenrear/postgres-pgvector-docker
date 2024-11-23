@@ -1,3 +1,4 @@
+CREATE SCHEMA IF NOT EXISTS pgml;
 CREATE EXTENSION IF NOT EXISTS vector;
 -- test to make sure it works...
 CREATE TABLE items (
